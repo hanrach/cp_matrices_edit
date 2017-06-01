@@ -1,0 +1,24 @@
+# project specific
+python/build
+
+# compiled python and shared objects
+*.pyc
+*.pyo
+*.so
+# temporary files
+*~
+\#*#
+# profiling files
+*.lprof
+# data files
+*.ply
+.project
+.pydevproject
+*.pickle
+*.mat
+*.png
+*.jpg
+# archives
+*.tar
+*.tar.gz
+*.zip

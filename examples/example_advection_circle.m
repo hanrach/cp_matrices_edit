@@ -17,7 +17,7 @@
 %% Build a meshgrid
 % Construct a grid in the embedding space
 
-dx = 0.05;   % grid size
+dx = 0.001;   % grid size
 
 % make vectors of x, y, positions of the grid
 x1d = (-2.0:dx:2.0)';
